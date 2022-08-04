@@ -1,0 +1,31 @@
+.card{
+  outline: 2px solid black;
+  margin: 5px;
+
+}
+.container{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 75px;
+}
+
+.card-body{
+  text-align: center;
+}
+
+.nav-items{
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.goTo{
+  color: white;
+  font-weight: 600;
+}
+
+.navbar{
+  box-shadow: 2px 15px 34px -5px rgba(95, 93, 93, 0.25);
+}
